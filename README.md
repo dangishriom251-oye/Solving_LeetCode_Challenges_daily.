@@ -30,4 +30,17 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
