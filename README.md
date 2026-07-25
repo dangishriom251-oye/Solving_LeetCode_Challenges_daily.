@@ -43,4 +43,16 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
