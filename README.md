@@ -30,6 +30,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -38,6 +39,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -47,6 +49,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+| [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +58,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
