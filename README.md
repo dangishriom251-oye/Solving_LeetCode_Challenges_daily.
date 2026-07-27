@@ -26,6 +26,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
@@ -87,4 +89,9 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
