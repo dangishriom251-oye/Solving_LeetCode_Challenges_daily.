@@ -12,6 +12,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -110,4 +111,16 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
