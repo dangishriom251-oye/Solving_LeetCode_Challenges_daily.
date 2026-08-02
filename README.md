@@ -73,6 +73,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
@@ -95,6 +96,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
