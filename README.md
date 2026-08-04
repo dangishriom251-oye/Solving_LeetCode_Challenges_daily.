@@ -54,6 +54,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +70,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -86,6 +88,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +149,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0543-diameter-of-binary-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +171,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0543-diameter-of-binary-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -192,4 +197,5 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
