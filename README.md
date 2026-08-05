@@ -9,6 +9,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0024-swap-nodes-in-pairs](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0099-recover-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -144,6 +146,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -156,6 +159,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -167,6 +171,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
