@@ -85,6 +85,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0001-two-sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -98,6 +99,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
