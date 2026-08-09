@@ -41,6 +41,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
@@ -119,6 +120,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
@@ -204,6 +206,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
