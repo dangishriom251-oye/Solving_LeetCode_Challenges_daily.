@@ -224,4 +224,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
