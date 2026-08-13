@@ -89,6 +89,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -104,6 +105,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -227,8 +229,17 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
