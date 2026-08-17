@@ -6,6 +6,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -35,6 +36,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0025-reverse-nodes-in-k-group) |
 ## String
