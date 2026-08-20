@@ -91,6 +91,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -215,6 +216,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -244,4 +246,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
