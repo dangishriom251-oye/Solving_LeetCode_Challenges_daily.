@@ -250,4 +250,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
