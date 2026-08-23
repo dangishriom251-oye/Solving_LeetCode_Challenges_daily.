@@ -46,6 +46,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0131-palindrome-partitioning](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
+| [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0134-gas-station) |
+| [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,5 +255,10 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
