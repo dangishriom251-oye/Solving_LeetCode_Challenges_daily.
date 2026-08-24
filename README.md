@@ -102,6 +102,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0131-palindrome-partitioning) |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 ## Queue
 |  |
 | ------- |
@@ -255,10 +257,24 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
