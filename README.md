@@ -103,6 +103,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
