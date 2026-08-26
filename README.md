@@ -47,6 +47,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0257-binary-tree-paths](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
