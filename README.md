@@ -48,6 +48,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +120,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0134-gas-station) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,4 +285,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
