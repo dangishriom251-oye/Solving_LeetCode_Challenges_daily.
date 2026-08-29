@@ -106,6 +106,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -248,6 +249,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -292,4 +294,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
