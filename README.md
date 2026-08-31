@@ -12,6 +12,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Depth-First Search
 |  |
 | ------- |
