@@ -109,6 +109,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0100-same-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -301,4 +305,8 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
