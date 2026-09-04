@@ -112,6 +112,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +295,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
