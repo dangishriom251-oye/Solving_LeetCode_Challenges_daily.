@@ -94,6 +94,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0001-two-sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0074-search-a-2d-matrix) |
@@ -118,6 +119,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | ------- |
 | [0011-container-with-most-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
