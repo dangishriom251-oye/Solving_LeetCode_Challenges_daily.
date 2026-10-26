@@ -103,6 +103,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
@@ -123,6 +124,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0031-next-permutation](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -280,6 +282,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [1872-stone-game-viii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3622-check-divisibility-by-digit-sum-and-product) |
