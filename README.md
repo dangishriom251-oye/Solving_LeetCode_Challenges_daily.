@@ -105,6 +105,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0134-gas-station](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -125,6 +126,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0042-trapping-rain-water](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
