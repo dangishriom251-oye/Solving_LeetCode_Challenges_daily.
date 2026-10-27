@@ -106,6 +106,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
