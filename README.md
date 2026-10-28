@@ -103,6 +103,7 @@ The LeetCode submissions will be committed to GitHub automatically.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0283-move-zeroes) |
@@ -320,5 +321,6 @@ The LeetCode submissions will be committed to GitHub automatically.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dangishriom251-oye/Solving_LeetCode_Challenges_daily./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
